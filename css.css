@@ -2,4 +2,27 @@ body {
     background-image: url("images/bg-desktop.svg");
     background-color: hsl(300, 69%, 71%);
     background-color: hsl(257, 40%, 49%);
+    color: white;
+}
+
+
+h1{
+font-family:[Poppins](https://fonts.google.com/specimen/Poppins);
+font-weight: 600;
+
+}
+
+p{
+    font-family: [Open Sans](https://fonts.google.com/specimen/Open+Sans);
+    font-weight: 400;
+}
+ 
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+.illustration-mockups{
+    width: 500px;
+    height: auto;
 }
