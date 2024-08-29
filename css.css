@@ -32,3 +32,9 @@ p{
     height: auto;
     float: left;
 }
+footer{
+    width: 150px;
+    clear: both;
+    float: right;
+    padding-right: 150px;
+}
