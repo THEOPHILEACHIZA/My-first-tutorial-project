@@ -25,4 +25,5 @@ p{
 .illustration-mockups{
     width: 500px;
     height: auto;
+    float: left;
 }
