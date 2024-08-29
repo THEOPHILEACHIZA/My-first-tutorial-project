@@ -18,11 +18,16 @@ p{
 }
  
 .logo{
-    width: 100px;
+    width: 150px;
     height: auto;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .illustration-mockups{
+    padding-left: 60px;
+    padding-right: 60px;
     width: 500px;
     height: auto;
     float: left;
