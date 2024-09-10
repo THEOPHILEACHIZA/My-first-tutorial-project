@@ -38,3 +38,16 @@ footer{
     float: right;
     padding-right: 150px;
 }
+
+/* RESPONSIVE DESIGN */
+/*designing for mobile before designing for desktop (This will make the page display faster on smaller devices)*/
+/* Default style for mobile (max width of 375px)*/
+
+body{
+    max-width: 375px;
+
+}
+/* Style for desktop (max width of 1440px)*/
+@media(nin: width 1440px;){
+    max-width: 1440px;
+}
