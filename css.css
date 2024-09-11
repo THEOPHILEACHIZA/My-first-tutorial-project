@@ -30,14 +30,9 @@ p{
     padding-right: 60px;
     width: 350px;
     height: auto;
-    float: left;
+    
 }
-footer{
-    width: 150px;
-    clear: both;
-    float: right;
-    padding-right: 150px;
-}
+
 
 /* RESPONSIVE DESIGN */
 /*designing for mobile before designing for desktop (This will make the page display faster on smaller devices)*/
