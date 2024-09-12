@@ -5,6 +5,10 @@ body {
     color: white;
 }
 
+.text{
+    text-align: center;
+    
+}
 
 h1{
 font-family:[Poppins](https://fonts.google.com/specimen/Poppins);
@@ -15,6 +19,8 @@ font-weight: 600;
 p{
     font-family: [Open Sans](https://fonts.google.com/specimen/Open+Sans);
     font-weight: 400;
+    padding-bottom: 20px;
+    
 }
  
 .logo{
@@ -32,7 +38,16 @@ p{
     height: auto;
     
 }
-
+button{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+ 
+footer{
+    text-align: center;
+    padding: 10px;
+}
 
 /* RESPONSIVE DESIGN */
 /*designing for mobile before designing for desktop (This will make the page display faster on smaller devices)*/
