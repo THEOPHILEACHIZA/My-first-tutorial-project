@@ -1,63 +1,45 @@
+
 body {
+    font-family: [Poppins]('https://fonts.google.com/specimen/Poppins');
     background-image: url("images/bg-desktop.svg");
     background-color: hsl(300, 69%, 71%);
     background-color: hsl(257, 40%, 49%);
     color: white;
+    max-width: 100%;
 }
-
-.text{
-    text-align: center;
-    
-}
-
-h1{
-font-family:[Poppins](https://fonts.google.com/specimen/Poppins);
-font-weight: 600;
-
-}
-
-p{
-    font-family: [Open Sans](https://fonts.google.com/specimen/Open+Sans);
-    font-weight: 400;
-    padding-bottom: 20px;
-    
-}
- 
 .logo{
     width: 150px;
     height: auto;
-    padding-left: 60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
+}
+.illustration-mockups{
+    max-width: 400px;
+    padding: 35px;
+}
+.text{
+    max-width: 300px;
+    display: block;
+    text-align: center;
+    margin: auto;
 }
 
-.illustration-mockups{
-    padding-left: 60px;
-    padding-right: 60px;
-    width: 350px;
-    height: auto;
-    
-}
 button{
     display: block;
     margin: auto;
+    border-radius: 70px;
     margin-bottom: 20px;
+    padding: 15px 50px; 
+    color: hsl(257, 40%, 49%);
 }
- 
+
+section img{
+    width: 100%;
+    padding: 10px;
+    height: auto;
+}
 footer{
     text-align: center;
     padding: 10px;
-}
+} 
 
-/* RESPONSIVE DESIGN */
-/*designing for mobile before designing for desktop (This will make the page display faster on smaller devices)*/
-/* Default style for mobile (max width of 375px)*/
 
-body{
-    max-width: 375px;
-
-}
-/* Style for desktop (max width of 1440px)*/
-@media(nin: width 1440px;){
-    max-width: 1440px;
-}
