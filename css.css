@@ -57,4 +57,21 @@ footer{
         max-width: 45%;
         float: left;
     }
+    .text{
+        float: left;
+        padding: 50px;
+    
+    }
+    button{
+        padding-top: 20px;
+       
+    }
+    footer{
+        clear: both;
+        text-align: right;
+        padding-right: 150px;
+        
+        
+        
+    }
 }
