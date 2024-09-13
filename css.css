@@ -43,3 +43,18 @@ footer{
 } 
 
 
+/* RESPONSIVE DESIGN */
+/*designing for mobile before designing for desktop (This will make the page display faster on smaller devices)*/
+
+
+
+/* For desktop */
+@media only screen and (min-width: 768px) {
+    body{
+        padding: 20px;
+    }
+    .illustration-mockups{
+        max-width: 45%;
+        float: left;
+    }
+}
