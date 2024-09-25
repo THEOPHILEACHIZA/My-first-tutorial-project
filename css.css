@@ -31,6 +31,12 @@ button{
     padding: 15px 50px; 
     color: hsl(257, 40%, 49%);
 }
+button:hover{
+    color: white;
+    background-color: blueviolet;
+    
+
+}
 
 section img{
     width: 100%;
