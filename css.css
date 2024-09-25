@@ -34,7 +34,8 @@ button{
 button:hover{
     color: white;
     background-color: blueviolet;
-    
+    transition: background-color 0.3;
+    transition: color 0.3;
 
 }
 
