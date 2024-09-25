@@ -47,8 +47,20 @@ section img{
 footer{
     text-align: center;
     padding: 10px;
+    font-size: 1.4em;
 } 
-
+.facebook-icon:hover{
+    color: #3b5998;
+    font-size: 1.4em;
+}
+.twiter-icon:hover{
+    color: #1da1f2;
+    font-size: 1.4em;
+}
+.instagram-icon:hover{
+    color: #e1306c;
+    font-size: 1.4em;
+}
 
 /* RESPONSIVE DESIGN */
 /*designing for mobile before designing for desktop (This will make the page display faster on smaller devices)*/
