@@ -52,14 +52,17 @@ footer{
 .facebook-icon:hover{
     color: #3b5998;
     font-size: 1.4em;
+    transition: font-size 0.9;
 }
 .twiter-icon:hover{
     color: #1da1f2;
     font-size: 1.4em;
+    transition: font-size 0.9;
 }
 .instagram-icon:hover{
     color: #e1306c;
     font-size: 1.4em;
+    transition: font-size 0.9;
 }
 
 /* RESPONSIVE DESIGN */
@@ -89,8 +92,7 @@ footer{
         clear: both;
         text-align: right;
         padding-right: 150px;
-        
-        
+        font-size: 2em;
         
     }
 }
