@@ -65,13 +65,13 @@ I will continue to learn flexbox and grid to properly manage RWD
 
 ### Useful resources
 
-- [Example resource 1](https://www.michaelkentburns.com) - This site helped me step by step to build my web page, with its advice, guidelines, and mentoring.
-- [Example resource 2](https://www.w3school.com) - This is an amazing site which helped me finally understand how works Responsive Web Design. I'd recommend it to anyone still learning this concept.
+- [Michael Kent Burns](https://www.michaelkentburns.com) - This site helped me step by step to build my web page, with its advice, guidelines, and mentoring.
+- [W3school](https://www.w3school.com) - This is an amazing site which helped me finally understand how works Responsive Web Design. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/THEOPHILEACHIZA)
+- Frontend Mentor - [Theophile](https://www.frontendmentor.io/profile/THEOPHILEACHIZA)
 
 
 ## Acknowledgments
