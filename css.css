@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+
+}
 
 body {
     font-family: [Poppins]('https://fonts.google.com/specimen/Poppins');
@@ -14,9 +21,10 @@ body {
 }
 .illustration-mockups{
     max-width: 400px;
-    padding: 35px;
+    padding: 30px;
 }
 .text{
+    font-size: 18px;
     max-width: 300px;
     display: block;
     text-align: center;
@@ -46,28 +54,27 @@ section img{
 }
 footer{
     text-align: center;
-    padding: 10px;
     font-size: 1.4em;
 } 
-.facebook-icon:hover{
-    color: #3b5998;
-    font-size: 1.4em;
-    transition: font-size 0.9;
+
+.link{
+    border-radius: 45%;
+    margin: 0 15px;
+    color: white;
+    background-color: red;
+    text-decoration: none;
 }
-.twiter-icon:hover{
-    color: #1da1f2;
-    font-size: 1.4em;
-    transition: font-size 0.9;
-}
-.instagram-icon:hover{
-    color: #e1306c;
-    font-size: 1.4em;
-    transition: font-size 0.9;
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 /* RESPONSIVE DESIGN */
 /*designing for mobile before designing for desktop (This will make the page display faster on smaller devices)*/
-
 
 
 /* For desktop */
@@ -94,5 +101,11 @@ footer{
         padding-right: 150px;
         font-size: 2em;
         
+    }
+    .container{
+        display: flex;
+        justify-content: right;
+        align-items: center;
+    
     }
 }
